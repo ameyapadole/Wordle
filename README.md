@@ -1,3 +1,4 @@
 # Wordle
+Made a wordle clone using Javascript, HTML and CSS. 
 
-ameyapadole.github.io/Wordle/
+https://www.ameyapadole.github.io/Wordle/
